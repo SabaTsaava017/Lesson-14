@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-container {
+    margin: 0 auto;
+}
+.text-section {
+    margin-left: 350px;
+    width: 900px;
+    height: 877px;
+
+}
+.text-section p {
+    margin-top: 10px;
+    color: #171717;
+    letter-spacing: 0px;
+    font: normal normal normal 16px/26px HelveticaNeueLTGEOW82-55Rm;
+    width: 600px;
+    height: 177px;
+}
+.blue-button button {
+color: white;
+font-size: 15px;
+margin-left: 500px;
+margin-bottom: 30px;
+width: 241px;
+height: 45px;
+border-radius: 28px;
+background-color: blue;
+}
