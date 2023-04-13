@@ -1,5 +1,6 @@
 .pic1{
 	margin-left: 120px;
+	width: 900px;
 }
 h1{
 	padding-left: 120px;
@@ -7,8 +8,9 @@ h1{
 div img{
 	display: inline-block;
 	margin-left: 15px;
+	width: 160px;
 }
-.div_fotos{
+.wrapper{
 	margin-left: 120px;
 }
 .img_container{
