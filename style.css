@@ -20,13 +20,13 @@
     width: 600px;
     height: 177px;
 }
-.blue-button button {
-color: white;
-font-size: 15px;
-margin-left: 500px;
-margin-bottom: 30px;
-width: 241px;
-height: 45px;
-border-radius: 28px;
-background-color: blue;
+.more-info-button button {
+    color: white;
+    font-size: 15px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+    width: 241px;
+    height: 45px;
+    border-radius: 28px;
+    background-color: blue;
 }
