@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    height: 388px;
+    background-color: #0020F4;
+}
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+}
+li {
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 50px; 
+}
+a {
+    color: white;
+    text-decoration: none;  
+}
+.icon {
+    margin-left: 50px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.button {
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    border: solid white;
+}
+ul {
+    display: inline-block;
+}
+.header-container {
+    text-align: center;
+    margin: 0 auto;
+}
