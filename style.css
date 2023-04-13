@@ -1,4 +1,24 @@
 
+.pic1{
+	margin-left: 120px;
+	width: 900px;
+}
+h1{
+	padding-left: 120px;
+}
+div img{
+	display: inline-block;
+	margin-left: 15px;
+	width: 160px;
+}
+.wrapper{
+	margin-left: 120px;
+}
+.img_container{
+	margin:0 auto;
+  }
+
+
 
 .footer {
   width: 100%;
@@ -115,4 +135,5 @@ ul {
     height: 45px;
     border-radius: 28px;
     background-color: blue;
+
 }
